@@ -41,7 +41,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/krishnamohanz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="krishnamohanz" /></a></p><br><br>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y2ZX9L9)
+<a href="https://ko-fi.com/Y8Y2ZX9L9">
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
+</a>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnamohan33&show_icons=true&locale=en&layout=compact" alt="krishnamohan33" /></p>
 
