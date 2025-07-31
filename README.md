@@ -17,6 +17,13 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Dev-2nd%20Place%20(Kongu)-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Paper%20Presentation-1st%20Place%20(Flashover%202k23)-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tectone23Hacks-2nd%20Place-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pyrahacks-2nd%20Place-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Echo3D-Participation%20Winner-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EdTech-Resource%20Bundle%20Winner-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-KY%20Indie%20Game%20Resources-blueviolet?style=for-the-badge" />
 </p>
 
 ---
@@ -42,6 +49,26 @@
 - ⚙️ I'm not a “pro coder” in every language, but I understand how systems work and love building complete products from scratch.
 
 ---
+
+### 🏆 Achievements & Certifications
+
+- 🥈 **2nd Place** in Web Development  
+  📍 *Kongu Engineering College*
+
+- 🥇 **1st Place** in Paper Presentation – *Flashover 2k23*  
+  📍 *Sri Ramakrishna Institute of Technology*
+
+- 🥈 **2nd Place** – Tectone23Hacks Hackathon  
+  🛠️ Issued by *Tectone* via *HackerEarth*
+
+- 🥈 **2nd Place** at *PyraHacks 2023* for **GameWorld: The Ultimate Gaming Hub**
+
+- 🏆 Winner – **Echo3D Business Plan** (All Participants)
+
+- 🎓 Winner – **EdTech Resource Bundle**
+
+- 🧩 Open Source Contributor – [KY Indie Game Engines](https://github.com/KY-Indie/KY-Awesome-Indie-Game-Engines)
+
 
 ### 📬 Connect with Me:
 
