@@ -1,131 +1,128 @@
 <!-- 
-  Krishnamohan Yagneswaran | Indie Game Developer | Full-Stack Web Developer | Unity Developer | React | Next.js | Firebase | Portfolio | CSE Student | Game Designer 
+  Krishnamohan Yagneswaran | Indie Game Developer | Web Developer | Unity Developer | Java | React | CSE Student 
 -->
 
 <h1 align="center">Hi 👋, I'm Krishnamohan Yagneswaran</h1>
-<h3 align="center">🎮 Indie Game Dev | 🌐 Full-Stack Web Dev | 🛠 CSE Student | 🚀 Unity + React Enthusiast</h3>
+<h3 align="center">
+  Indie Game Developer • Web Developer • CSE Student  
+</h3>
+
+<p align="center">
+  Building games and web applications by learning, experimenting, and improving every day.
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Dev-2nd%20Place%20(Kongu)-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Paper%20Presentation-1st%20Place%20(Flashover%202k23)-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tectone23Hacks-2nd%20Place-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pyrahacks-2nd%20Place-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Echo3D-Participation%20Winner-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/EdTech-Resource%20Bundle%20Winner-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-KY%20Indie%20Game%20Resources-blueviolet?style=for-the-badge" />
 </p>
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnamohan33&label=Profile%20views&color=0e75b6&style=flat" alt="krishnamohan33" /> </p>
+## 👨‍💻 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnamohan33" alt="krishnamohan33" /></a> </p>
+I’m a **Computer Science Engineering student** who enjoys building complete products—from idea to deployment.
 
-<p align="left"> <a href="https://twitter.com/krishnamohan_y3" target="blank"><img src="https://img.shields.io/twitter/follow/krishnamohan_y3?logo=twitter&style=for-the-badge" alt="krishnamohan_y3" /></a> </p>
+I don’t claim to be an expert in everything.  
+What I do have is **consistency**: I learn, build, break things, fix them, and repeat.
 
----
+### My core focus areas:
+- **Java** – fundamentals, backend logic, and problem solving  
+- **Web Development** – React, Next.js, modern frontend workflows  
+- **Game Development** – Unity (C#), gameplay systems, mechanics, and small-scope games  
 
-### 👨‍💻 About Me
-
-- 🌱 I’m currently focused on **Unity game development** and **full-stack web development** using **HTML, CSS, React, and Next.js**.
-- 🧠 I've worked across a variety of frontend and backend stacks. My backend experience includes **Firestore, MySQL, PostgreSQL, Supabase, and MongoDB**.
-- 🚀 I host and deploy on **Firebase, Netlify, and Vercel**.
-- 👨‍💻 I manage my **project hub/portfolio website**:  
-  🔗 [https://www.krishnamohanproductions.com](https://www.krishnamohanproductions.com)
-- 💬 Ask me about **Unity, React, Next.js, Firestore, or anything full-stack**.
-- 📫 Reach me at **krishna.mohan.y003@gmail.com**
-- 🎓 Started my development journey in **2021 as a Computer Science Engineering student**.
-- ⚙️ I'm not a “pro coder” in every language, but I understand how systems work and love building complete products from scratch.
+I work daily on improving my skills through:
+- Personal projects  
+- Indie games  
+- Web apps  
+- Open-source contributions  
 
 ---
 
-### 🏆 Achievements & Certifications
+## 🧠 What I’m Currently Working On
 
-- 🥈 **2nd Place** in Web Development  
-  📍 *Kongu Engineering College*
+- 🎮 Indie game projects using **Unity (C#)**
+- 🌐 Full-stack web apps using **React, Next.js, Firebase**
+- 📦 Personal portfolio & project hub  
+  🔗 https://www.krishnamohanproductions.com
+- 📈 Improving system design thinking and real-world coding practices
 
-- 🥇 **1st Place** in Paper Presentation – *Flashover 2k23*  
-  📍 *Sri Ramakrishna Institute of Technology*
+---
 
+## 🛠 Technical Skills
+
+**Programming & Core**
+- Java  
+- C#  
+- JavaScript  
+
+**Web Development**
+- React  
+- Next.js  
+- HTML, CSS  
+- Tailwind CSS  
+
+**Databases & Backend**
+- Firebase / Firestore  
+- MySQL  
+- PostgreSQL  
+- MongoDB  
+- Supabase  
+
+**Tools & Deployment**
+- Git & GitHub  
+- Netlify  
+- Vercel  
+- Firebase Hosting  
+
+---
+
+## 🏆 Achievements (Selected)
+
+- 🥇 **1st Place** – Paper Presentation (*Flashover 2k23*)  
+- 🥈 **2nd Place** – Web Development Competition (*Kongu Engineering College*)  
 - 🥈 **2nd Place** – Tectone23Hacks Hackathon  
-  🛠️ Issued by *Tectone* via *HackerEarth*
+- 🥈 **2nd Place** – PyraHacks 2023  
+- 🏆 Winner – Echo3D Business Plan  
+- 🎓 Winner – EdTech Resource Bundle  
 
-- 🥈 **2nd Place** at *PyraHacks 2023* for **GameWorld: The Ultimate Gaming Hub**
+---
 
-- 🏆 Winner – **Echo3D Business Plan** (All Participants)
-
-- 🎓 Winner – **EdTech Resource Bundle**
-
-- 🧩 Open Source Contributor – [KY Indie Game Engines](https://github.com/KY-Indie/KY-Awesome-Indie-Game-Engines)
-
-
-### 📬 Connect with Me:
+## 📬 Connect With Me
 
 <p align="left">
-  <a href="https://dev.to/krishdevninja" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" /></a>
-  <a href="https://twitter.com/krishnamohan_y3" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/krishnamohan-yagneswaran-546b4323a" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/krishnamohan_yagneswaran" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-  <a href="https://dribbble.com/krishdevninja" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="30" width="40" /></a>
-  <a href="https://www.behance.net/krishnamohanyoffcl" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40" /></a>
-  <a href="https://medium.com/@krishnamohanyag" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/krishnamohan yagneswaran" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/krishnamohan_yagneswaran" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-  <a href="https://www.hackerearth.com/@krishnamohan_y" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/krishnamo14e3/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/krishnamohan-yagneswaran-546b4323a" target="_blank">LinkedIn</a> •
+  <a href="https://twitter.com/krishnamohan_y3" target="_blank">Twitter</a> •
+  <a href="https://github.com/krishnamohan33" target="_blank">GitHub</a> •
+  <a href="mailto:krishna.mohan.y003@gmail.com">Email</a>
 </p>
 
 ---
 
-### 🛠 Languages and Tools:
+## 💡 Philosophy
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL" />
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" height="40" alt="Supabase" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40" alt="Unity" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" />
-</p>
+> I may not know everything,  
+> but I work every day to know more than yesterday.
+
+I enjoy learning by doing, building real things, and steadily improving—not chasing buzzwords.
 
 ---
 
-### 💖 Support Me:
+## 💖 Support My Work
 
 <p>
   <a href="https://razorpay.me/@krishnamohanyagneswaran" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-Razorpay-blue?logo=razorpay&style=for-the-badge" alt="Razorpay" />
+    <img src="https://img.shields.io/badge/Donate-Razorpay-blue?style=for-the-badge" />
   </a>
   <a href="https://www.patreon.com/KrishnamohanYagneswaran" target="_blank">
-    <img src="https://img.shields.io/badge/Support me on-Patreon-orange?logo=patreon&style=for-the-badge" alt="Patreon" />
+    <img src="https://img.shields.io/badge/Support-Patreon-orange?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnamohan33&show_icons=true&locale=en&layout=compact" alt="krishnamohan33" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnamohan33&show_icons=true&locale=en" alt="krishnamohan33" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamohan33&" alt="krishnamohan33" /></p>
-
----
-
-<p align="center">© 2025 Krishnamohan Yagneswaran — All Rights Reserved.</p>
+<p align="center">
+  © 2025 Krishnamohan Yagneswaran
+</p>
