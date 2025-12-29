@@ -1,92 +1,125 @@
-<!-- 
-  Krishnamohan Yagneswaran | Indie Game Developer | Web Developer | Unity Developer | Java | React | CSE Student 
+<!--
+  Krishnamohan Yagneswaran
+  Indie Game Developer | Web Developer | CSE Student
+  GitHub: krishnamohan33
 -->
 
 <h1 align="center">Hi 👋, I'm Krishnamohan Yagneswaran</h1>
 <h3 align="center">
-  Indie Game Developer • Web Developer • CSE Student  
+  Indie Game Developer • Web Developer • Computer Science Engineering Student
 </h3>
 
 <p align="center">
-  Building games and web applications by learning, experimenting, and improving every day.
+  I build games and web applications by learning deeply, shipping consistently, and improving every single day.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **Computer Science Engineering student** who enjoys building complete products—from idea to deployment.
+I’m a **Computer Science Engineering student** who enjoys building **complete products** — from idea to deployment.
 
-I don’t claim to be an expert in everything.  
-What I do have is **consistency**: I learn, build, break things, fix them, and repeat.
+I don’t chase buzzwords.  
+I focus on **fundamentals, real projects, and consistency**.
 
-### My core focus areas:
-- **Java** – fundamentals, backend logic, and problem solving  
-- **Web Development** – React, Next.js, modern frontend workflows  
-- **Game Development** – Unity (C#), gameplay systems, mechanics, and small-scope games  
+What defines me:
+- I build before I claim
+- I finish what I start
+- I learn by breaking and fixing things
 
-I work daily on improving my skills through:
-- Personal projects  
-- Indie games  
-- Web apps  
-- Open-source contributions  
+### Core Areas I Actively Work On
+- 🎮 **Game Development** — Unity (C#), gameplay systems, mechanics, tools
+- 🌐 **Web Development** — React, Next.js, frontend architecture
+- ⚙️ **Programming Fundamentals** — Java, system thinking, problem solving
 
 ---
 
-## 🧠 What I’m Currently Working On
+## 🧠 Currently Working On
 
-- 🎮 Indie game projects using **Unity (C#)**
-- 🌐 Full-stack web apps using **React, Next.js, Firebase**
-- 📦 Personal portfolio & project hub  
+- 🎮 Indie game projects (solo-developed)
+- 🌐 Full-stack web applications
+- 🧰 Developer tools & utilities
+- 📦 Portfolio & project hub  
   🔗 https://www.krishnamohanproductions.com
-- 📈 Improving system design thinking and real-world coding practices
 
 ---
 
 ## 🛠 Technical Skills
 
-**Programming & Core**
+### Programming
 - Java  
 - C#  
 - JavaScript  
 
-**Web Development**
-- React  
-- Next.js  
-- HTML, CSS  
-- Tailwind CSS  
+### Game Development
+- Unity Engine
+- Gameplay mechanics
+- State machines
+- AI behaviors
+- Tooling & editor utilities
 
-**Databases & Backend**
-- Firebase / Firestore  
-- MySQL  
-- PostgreSQL  
-- MongoDB  
-- Supabase  
+### Web Development
+- React
+- Next.js
+- HTML, CSS
+- Tailwind CSS
 
-**Tools & Deployment**
-- Git & GitHub  
-- Netlify  
-- Vercel  
-- Firebase Hosting  
+### Backend & Databases
+- Firebase / Firestore
+- MySQL
+- PostgreSQL
+- MongoDB
+- Supabase
+
+### Tools & Deployment
+- Git & GitHub
+- Netlify
+- Vercel
+- Firebase Hosting
+
+---
+
+## 📊 GitHub Stats & Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnamohan33&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamohan33&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnamohan33&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🧪 What I Code The Most
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Game%20Development-Unity-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web%20Applications-React%20%7C%20Next.js-61DAFB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Programming-Fundamentals%20%26%20Logic-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Consistency-Daily%20Practice-success?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 🏆 Achievements (Selected)
 
-- 🥇 **1st Place** – Paper Presentation (*Flashover 2k23*)  
-- 🥈 **2nd Place** – Web Development Competition (*Kongu Engineering College*)  
-- 🥈 **2nd Place** – Tectone23Hacks Hackathon  
-- 🥈 **2nd Place** – PyraHacks 2023  
-- 🏆 Winner – Echo3D Business Plan  
-- 🎓 Winner – EdTech Resource Bundle  
+- 🥇 **1st Place** – Paper Presentation (*Flashover 2k23*)
+- 🥈 **2nd Place** – Web Development Competition (*Kongu Engineering College*)
+- 🥈 **2nd Place** – Tectone23Hacks Hackathon
+- 🥈 **2nd Place** – PyraHacks 2023
+- 🏆 Winner – Echo3D Business Plan
+- 🎓 Winner – EdTech Resource Bundle
 
 ---
 
@@ -106,18 +139,16 @@ I work daily on improving my skills through:
 > I may not know everything,  
 > but I work every day to know more than yesterday.
 
-I enjoy learning by doing, building real things, and steadily improving—not chasing buzzwords.
+I believe in **progress over perfection**,  
+and **real work over loud claims**.
 
 ---
 
 ## 💖 Support My Work
 
 <p>
-  <a href="https://razorpay.me/@krishnamohanyagneswaran" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-Razorpay-blue?style=for-the-badge" />
-  </a>
-  <a href="https://www.patreon.com/KrishnamohanYagneswaran" target="_blank">
-    <img src="https://img.shields.io/badge/Support-Patreon-orange?style=for-the-badge" />
+  <a href="https://www.krishnamohanproductions.com/donate" target="_blank">
+    <img src="https://img.shields.io/badge/Support%20My%20Work-Donate-blue?style=for-the-badge"/>
   </a>
 </p>
 
