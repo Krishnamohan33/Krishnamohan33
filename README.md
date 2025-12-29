@@ -91,13 +91,23 @@ What defines me:
 ## 📊 GitHub Stats & Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnamohan33&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamohan33&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=krishnamohan33&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamohan33&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnamohan33&theme=tokyo-night&hide_border=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=krishnamohan33&theme=tokyonight&hide_border=true&area=true"
+    width="95%"
+  />
 </p>
+
 
 ---
 
