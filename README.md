@@ -165,5 +165,5 @@ and **real work over loud claims**.
 ---
 
 <p align="center">
-  © 2025 Krishnamohan Yagneswaran
+  © 2026 Krishnamohan Yagneswaran
 </p>
