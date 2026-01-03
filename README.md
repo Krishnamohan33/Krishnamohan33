@@ -69,17 +69,33 @@ https://www.krishnamohanproductions.com
 ## 📊 GitHub Stats
 
 <p align="center">
+  <b>Overall GitHub Activity</b><br/>
+  <span style="font-size:14px;">
+    Public contributions, commit frequency, and repository activity.
+  </span><br/><br/>
+
   <img src="https://github-readme-stats.vercel.app/api?username=krishnamohan33&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamohan33&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
+  <b>Languages Used Across Repositories</b><br/>
+  <span style="font-size:14px;">
+    Breakdown of languages based on public repositories and code usage.
+  </span><br/><br/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamohan33&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
+  <b>Contribution Activity Timeline</b><br/>
+  <span style="font-size:14px;">
+    Visual representation of contributions over time.
+  </span><br/><br/>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnamohan33&theme=tokyonight&hide_border=true&area=true"/>
 </p>
+
 
 ---
 
