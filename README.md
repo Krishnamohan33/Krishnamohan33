@@ -57,12 +57,21 @@ I believe in **finishing real projects**, deploying them, and learning by buildi
 ## 🧠 Currently Working On
 
 - 🎮 Solo indie games (Unity)
-- 🌍 Frontend production-grade web apps
+- 🧩 Unity Editor tools & reusable scripts
+- 🖥️ Standalone EXE applications (Windows)
+- 🌍 Maintaining and improving my personal website
+- 🌐 Frontend production-grade web apps
 - 🧰 Developer tools & utilities
 - ✍️ Writing blogs (185+ published)
 
-🔗 **Portfolio & Projects:**  
+🔗 **Portfolio & Personal Website:**  
 https://www.krishnamohanproductions.com
+
+🧠 **Notion Templates & Digital Products:**  
+https://krishnamohany.gumroad.com/
+
+🎮 **Games & Unity Scripts:**  
+https://krishnamohan-yagneswaran.itch.io/
 
 ---
 
@@ -103,7 +112,9 @@ https://www.krishnamohanproductions.com
 
 🏅 1st Place — Paper Presentation (Flashover 2k23)  
 🥈 Multiple Hackathon & Web Development Wins  
-🎮 Solo-published indie games  
+🎮 Solo-published indie games & tools  
+🧩 Created reusable Unity editor scripts  
+🖥️ Built standalone EXE applications  
 ✍️ 185+ blogs on tech, games, movies & series  
 
 ---
