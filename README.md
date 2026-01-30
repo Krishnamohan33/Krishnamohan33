@@ -10,9 +10,6 @@
   I regularly write blogs at <a href="https://www.krishnamohanproductions.com/blog">krishnamohanproductions.com/blog</a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Indie+Game+Developer;Web+Developer;CSE+Student;Building+Production-Ready+Projects;Shipping+Consistently+Every+Day" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Indie+Game+Developer;Web+Developer;CSE+Student;Building+Production-Ready+Projects;Shipping+Consistently+Every+Day" />
